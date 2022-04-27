@@ -35,8 +35,8 @@ class _HomeState extends State<Home> {
               decoration: BoxDecoration(
                 color: Colors.indigo[900],
               ),
-              accountName: Text('Augusto Seabra'),
-              accountEmail: Text('FIAP - RM87841'),
+              accountName: Text('Matheus Camargo'),
+              accountEmail: Text('FIAP - RM86571'),
               currentAccountPicture: CircleAvatar(
                 backgroundImage: NetworkImage(
                     'https://ih1.redbubble.net/image.878005488.0727/st%2Csmall%2C215x235-pad%2C210x230%2Cf8f8f8.jpg'),
